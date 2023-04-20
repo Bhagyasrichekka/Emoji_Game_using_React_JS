@@ -1,0 +1,43 @@
+/* Write your code here. */
+.won-or-lose-card {
+  background-color: #ffffff33;
+  margin: 80px;
+  padding: 20px;
+  border-radius: 10px;
+  border: 1px solid #ffffff;
+  color: white;
+  display: flex;
+  padding: 50px;
+  width: 60%;
+
+  margin: auto;
+  margin-top: 80px;
+}
+.heading {
+  font-size: 50px;
+}
+.score-text {
+  font-size: 40px;
+  font-weight: 500;
+}
+.score {
+  color: #6a59ff;
+  font-size: 45px;
+  font-weight: bold;
+}
+.win-or-lose-img {
+  height: 50%;
+  width: 50%;
+  margin-left: 30px;
+}
+.play-again-btn {
+  border-style: none;
+  color: black;
+  background-color: #ffce27;
+  font-weight: bold;
+  font-size: 16px;
+  height: 42px;
+  width: 100px;
+  border-radius: 10px;
+  cursor: pointer;
+}

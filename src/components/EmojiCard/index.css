@@ -1,0 +1,14 @@
+/* Write your code here. */
+.emoji-card {
+  background-color: #ffffff30;
+  border: 1px solid white;
+  border-radius: 6px;
+  padding: 50px;
+  width: 20%;
+  margin: 10px;
+}
+.emoji-btn {
+  border-style: none;
+  background-color: transparent;
+  cursor: pointer;
+}
